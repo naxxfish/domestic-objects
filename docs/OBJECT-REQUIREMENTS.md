@@ -182,19 +182,22 @@ Computer generated renders **may** be supplied too, conforming with the same spe
 
 Images should be stored in the `images` directory, named as follows:
 
-* `${type}-isometric.jpg`: depicting an isometric view of the object
-* `${type}-top-down.jpg`: showing the object from the top down
-* `${type}-front.jpg`: showing the object from the front in a planar view
-* `${type}-side-left.jpg`: showing the object from a different side (rotated 90 degrees clockwise to `${type}-front.jpg`)
-* `${type}-back.jpg`: showing the object from a back view (rotated 180 degrees from `${type}-side-1.jpg`)
-* `${type}-side-right.jpg`: showing the object from a different side (rotated 270 degrees clockwise to `${type}-front.jpg`)
-* `${type}-bottom.jpg`: showing the bottom of the print in plan
+* `${type}-isometric.${ext}`: depicting an isometric view of the object
+* `${type}-top-down.${ext}`: showing the object from the top down
+* `${type}-front.${ext}`: showing the object from the front in a planar view
+* `${type}-side-left.${ext}`: showing the object from a different side (rotated 90 degrees clockwise to `${type}-front.${ext}`)
+* `${type}-back.${ext}`: showing the object from a back view (rotated 180 degrees from `${type}-side-1.${ext}`)
+* `${type}-side-right.${ext}`: showing the object from a different side (rotated 270 degrees clockwise to `${type}-front.${ext}`)
+* `${type}-bottom.${ext}`: showing the bottom of the print in plan
 
 Photograph specific files:
 
-* `photo-inuse-${n}.jpg`: showing the object being used - for multiple images increment n. 
+* `photo-inuse-${n}.${ext}`: showing the object being used - for multiple images increment n. 
 
-In each filename, `${type}` should be replaced with `photo` for photographs, or `render` for 3D computer generated renders.  Images of invividual parts may also be included, with their filename suffixed by `-${part}` before the extension.
+In each filename, 
+
+* `${type}` should be replaced with `photo` for photographs, or `render` for 3D computer generated renders.  Images of invividual parts may also be included, with their filename suffixed by `-${part}` before the extension.  
+* `${ext}` should be `jpg` for JPEG images or `png` for PNG images (no other file formats supported).
 
 Each object does not require all of these photos, and should be submitted in order of preference as the list above. 
 
