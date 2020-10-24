@@ -57,9 +57,9 @@ Objects should be as economical as possible.  The total cost of an individual it
 
 ### Generality
 
-Objects should be **generally** useful: their usefulness should not be dependent on the user owning any other item.  By specific item, we mean an item which is designed or sold exclusively by a specific supplier.  This does not mean that objects cannot interface with other objects which the user owns - but those interfaces should be standardised or flexible ones rather than bespoke to a specific design. 
+Objects should be **generally** useful: their usefulness should not be dependent on the user owning any other item.  By specific item, we mean an item which is designed or sold exclusively by a specific supplier.  This does not mean that objects cannot interface with other objects which the user owns - but those interfaces should be standardised or flexible ones rather than bespoke to a specific product. 
 
-An example of a standard interface may be a light switch panel, which has screw holes which are of a standard layout and size on which you can rely. Another example may be a bottle stopper which can fit into bottles with various size openings within a reasonable range. 
+An example of a standard interface may be a light switch panel, which utilise screws which are designed in a limited number of standard layouts and size. Another example may be a bottle stopper which can fit into bottles with various size openings within a reasonable range. 
 
 ### Examples of acceptable and unacceptable objects
 
@@ -67,7 +67,7 @@ Objects that would be suitable could include:
 
 * Clothes pegs
 * A hook for a dishcloth
-* A cover for a standard 1 gang light switch
+* A cover for a UK 1 gang light switch
 * Plant pots
 * A spacer clip for 22mm copper plumbing pipes
 * A USB plug holder
