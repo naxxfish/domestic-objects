@@ -102,7 +102,7 @@ There is a wide range of capabilities in 3D printers available on the market, ho
 * A layer height of 0.15mm or greater.
 * Which can be completed within 3 hours to an acceptable quality
 
-The print settings required to achieve this must be documented (in the metadata files), and **preferably** photographs showing the result when printed this way also included. 
+The print settings required to achieve this **must** be documented (in the metadata files), and **preferably** photographs showing the result when printed this way also included. 
 
 ## Technical Submission requirements
 
