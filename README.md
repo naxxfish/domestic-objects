@@ -32,6 +32,3 @@ In this initial release, there are no additional tools to assist in locating and
 This library (the work) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (see also [LICENSE.md](LICENSE.md))
 
 Each object in the library may be licensed under it's own individual license, which is specified in a file adjacent to the object's contents.  This is an object specific license and overrides the license of the library itself. 
-
-THE OBJECTS IN THIS LIBRARY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE THE OBJECTS OR THE USE OR OTHER DEALINGS WITH THE OBJECTS.
-
