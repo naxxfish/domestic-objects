@@ -29,7 +29,7 @@ In this initial release, there are no additional tools to assist in locating and
 
 
 ### Licensing
-This library (the work) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) (see also [LICENSE.md](LICENSE.md))
+This library (the work) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (see also [LICENSE.md](LICENSE.md))
 
 Each object in the library may be licensed under it's own individual license, which is specified in a file adjacent to the object's contents.  This is an object specific license and overrides the license of the library itself. 
 
