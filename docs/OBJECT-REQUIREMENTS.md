@@ -158,7 +158,7 @@ The metadadta file should contain the following properties:
 * * `extra_settings`: (optional) any extra slicer settings
 * * `post_processing`: (sequence, string, optional): any steps required after the object has completed printing (e.g. removal of supports, freeing hinges)
 
-Property names are alway in English, however the contents must be in the language referenced in the filename.
+Property names are always in English, however the contents must be in the language referenced in the filename.
 
 All prose should be in plain language, using the minimum amount of specialist terminology. Where specialist language must be used, it should be described on the first usage.
 
