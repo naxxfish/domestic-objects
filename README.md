@@ -12,7 +12,7 @@ This collection aims to allow a home hobbyist 3D printing user to easily produce
 The objects contained in this repository must conform to three fundemental requirements:
 
 1. **The packages must be of high quality, and be easily printable.**
-   Each object will meet the requirements set out in the [Object Requirements](/contributing/OBJECT-REQUIREMENTS.md) documentation, and be of a high standard when it is accepted to the colletion. This includes recommended settings and materials for printing
+   Each object will meet the requirements set out in the [Object Requirements](/docs/OBJECT-REQUIREMENTS.md) documentation, and be of a high standard when it is accepted to the colletion. This includes recommended settings and materials for printing
 
 2. **The contents must have an open license to share.**
    The objects should be freely usable, not only to download and print, but to modify to your requirements should you wish.  Most objects will have a permissive license, which will allow you to use them for almost any purpose - including, in *some* cases, exploit them commercially. 
