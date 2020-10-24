@@ -1,0 +1,23 @@
+title: "Basic Towel Hook"
+purpose: "To hang a small towel from a wall or other surface"
+extra_materials: 
+    - "3 - 4.5mm wood screw"
+instructions:
+    - "Prepare the surface the hook should be attached to according to the type of surface (e.g. wall plugs for masonry walls)"
+    - "Insert the screw through the hole in the hook"
+    - "Screw in firmly without overtightening"
+license: "CC-BY-NC-4.0"
+attribution: "Chris Roberts <chris@naxxfish.net>"
+description: "A wide hook with a hole in the longer edge"
+suitable_materials:
+    - "PLA"
+    - "PETG"
+    - "ABS"
+reference_configuration:
+    filament_type: "PLA"
+    layer_height: "0.25mm"
+    nozzle_size: "0.4mm"
+    shell_thickness: "2"
+    infill_type: "hatch"
+
+
