@@ -86,9 +86,9 @@ Some objects in the home have properties which are critical to their safe operat
 
 As the objects being supplied will be printed by consumers, we cannot guaruntee that any standards for materials, dimensions or other properties will be fulfilled when the object is created.  Therefore, any object for which there are safety critical standards implemented should not be accepted into the collection. 
 
-An example of such an object which is not acceptable for this reason could be a UK 13 Amp domestic plug socket, or a fire alarm cover. 
+An example of such an object which is not acceptable for this reason could be a UK 13 Amp domestic plug socket, or a fire alarm mounting bracket. 
 
-In some cases objects will be subjected to different environmnetal factors (e.g. moisure, heat or abrasion) which may make some commonly used materials unsuitable for these parts.  In these cases, these objects are still acceptable providing these limitations are clearly stated in the metadata file or README.md file for the object. 
+In some cases objects will be subjected to different environmnetal factors (e.g. moisure, heat or abrasion) which may make some commonly used materials unsuitable for these parts.  In these cases, these objects are still acceptable providing these limitations are clearly stated in the metadata file or `README.md` file for the object. 
 
 ## Printability
 
