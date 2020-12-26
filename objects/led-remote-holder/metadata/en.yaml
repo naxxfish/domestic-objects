@@ -1,0 +1,20 @@
+title: "LED Remote Holder"
+purpose: "Holds a IR Remote control common amongst many low cost LED lighting controllers, so that it does not cause clutter"
+extra_materials: 
+    - "Self adhesive foam pads"
+instructions:
+    - "Prepare the surface the hook should be attached, ensuring it is clean and free of dust"
+    - "Apply the foam pad to the back of the holder"
+    - "Apply the holder to the surface, putting a small amount of pressure on the back of the item for a few seconds"
+license: "CC-BY-NC-4.0"
+attribution: "Chris Roberts <chris@naxxfish.net>"
+description: "A square holder into which an LED remote control can be slotted into"
+suitable_materials:
+    - "PLA"
+    - "PETG"
+    - "ABS"
+reference_configuration:
+    filament_type: "PLA"
+    layer_height: "0.20mm"
+    nozzle_size: "0.4mm"
+    shell_thickness: "2"
