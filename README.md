@@ -3,7 +3,7 @@
 
 This is a *curated* collection of *high quality*, *3D printable* objects that are intended to be used *in the home*.  
 
-In the course of daily life, there are a myriad of small items which a person might make use of.  A clothes clip for holding up laundry to dry, a door wedge to keep a door open, or a self adhesive hook on which to hang a dish cloth, a comb to straighten your air.  These kinds of items are often mass produced, from thermoplastics like ABS or polyethylene, by the thousand. Often, they'll be produced cheaply and with poor quality control.  We know that this disposable attitude to these items leads to plastic pollution, and indeed waste.  
+In the course of daily life, there are a myriad of small items which a person might make use of.  A clothes clip for holding up laundry to dry, a door wedge to keep a door open, or a self adhesive hook on which to hang a dish cloth, a comb to straighten your hair.  These kinds of items are often mass produced, from thermoplastics like ABS or polyethylene, by the thousand. Often, they'll be produced cheaply and with poor quality control.  We know that this disposable attitude to these items leads to plastic pollution, and indeed waste.  
 
 Rather than encouraging the mass manufacture and sale of thousands of pieces of low quality, single use disposable plastic objects, we could instead create only the objects we require as we need them from a generic stock material using 3D printers.
 
